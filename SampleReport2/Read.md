@@ -1,3 +1,3 @@
 ## Report Description
 
-This report contains an analysis of Sales Data in SAP Analytics Cloud. Dataset has been obtained from Kaggle website and analysis has been conducted using different visualizations in SAP Analytics Cloud.
+This Sales report offers a comprehensive analysis of sales data for the specified reporting period. The dataset has been obtained from Kaggle website. This report is designed to provide valuable insights into the sales performance, with a focus on understanding profitability across different market segments, the impact of various product types on revenue, and regional sales trends.
