@@ -1,3 +1,0 @@
-## Report Description
-
-This Sales report offers a comprehensive analysis of sales data for the specified reporting period. The dataset has been obtained from Kaggle website. This report is designed to provide valuable insights into the sales performance, with a focus on understanding profitability across different market segments, the impact of various product types on revenue, and regional sales trends.
